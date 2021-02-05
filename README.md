@@ -2,4 +2,4 @@
 
 ## Application of Deep Learning in Arctic Oscillation Forecasting
 
-## Source code will be uploaded after publicaon.
+## Source code will be uploaded after publication.
